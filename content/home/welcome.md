@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+El GLC de la Universidad de Sevilla es un centro de excelencia de investigación, enseñanza y práctica en Inteligencia Artificial desde su fundación en 1998.
