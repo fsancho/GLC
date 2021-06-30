@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Un ejemplo de conferencia"
 authors:
 - admin
 - Robert Ford
