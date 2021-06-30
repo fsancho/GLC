@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Un ejemplo de artículo de revista"
 authors:
 - admin
 - Robert Ford
